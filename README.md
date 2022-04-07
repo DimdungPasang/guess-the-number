@@ -2,5 +2,5 @@
 
 You start a game by running the script:
 ```
-python run guess.py
+python guess.py
 ```
